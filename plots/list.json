@@ -4,5 +4,7 @@
     "bj_performance_no_ops",
     "bj_bandwidth_no_ops",
     "bj_performance_col_maj",
-    "bj_bandwidth_col_maj"
+    "bj_bandwidth_col_maj",
+    "bj_performance_col_maj_no_ops",
+    "bj_bandwidth_col_maj_no_ops"
 ]

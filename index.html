@@ -20,6 +20,10 @@ canvas{
 <script>
 
 function getQueryString(url) {
+    var ind = url.indexOf("?");
+    if (ind == -1) {
+        return "";
+    }
     return url.substr(url.indexOf("?"));
 }
 
