@@ -8,5 +8,7 @@
     "bj_performance_col_maj_no_ops",
     "bj_bandwidth_col_maj_no_ops",
     "bj_performance_all_block_sizes",
-    "bj_bandwidth_all_block_sizes"
+    "bj_bandwidth_all_block_sizes",
+    "bj_performance_interleaved",
+    "bj_bandwidth_interleaved"
 ]
